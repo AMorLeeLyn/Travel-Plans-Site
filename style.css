@@ -1,0 +1,227 @@
+
+#backgroundimg{
+  background: url("https://github.com/itzamnahuerta/ps_website_mockups/blob/master/outlines/images/home.jpg?raw=true");
+  max-width: 100%;
+  height: 100%;
+  padding: 30px 100px 50px 100px;
+}
+
+#ul1{
+  display: flex;
+  justify-content: space-around;
+}
+
+li:nth-child(1){
+  margin-right: 40px;
+  padding: 5px;
+}
+
+li:nth-child(2){
+  margin-right: 5px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+li:nth-child(3){
+  margin-right: 5px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+li:nth-child(4){
+  margin-right: 5px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+li:nth-child(5){
+  margin-right: 40px;
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+li:nth-child(6){
+  margin-left: 0;
+  padding: 10px;
+}
+li{
+  border: 1px solid white;
+  text-decoration: none;
+  display: inline-flex;
+  letter-spacing: 4px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+#logo{
+  display: block;
+}
+
+#imglogo{
+  margin: 50px;
+  padding: 100px;
+  width: 75%;
+}
+
+#underhome{
+  display: block;
+  text-align: center;
+}
+
+#makeorg{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 30px;
+  font-size: 30px;
+  line-height: 1.4;
+  color: rgb(252, 106, 43);
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+
+}
+
+#smallfont{
+  font-size: 12px;
+  line-height: 2;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+}
+
+#link{
+  display: inline-block;
+  color: rgb(252, 106, 43);
+  border: 1px solid rgb(252, 106, 43);
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  padding: 10px 40px;
+}
+
+#divblock{
+  text-align: center;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.inlineblock{
+  display: inline-flex;
+  margin: 0;
+}
+#topleft{
+  background: url("../images/homedestaque1.jpg");
+  background-size: cover;
+  width: 600px;
+  height: 320px;
+}
+
+#midright{
+  background: url("../images/homedestaque2.jpg");
+  background-size: cover;
+  width: 600px;
+  height: 320px;
+}
+
+#bottomleft{
+  background: url("../images/homedestaque3.jpg");
+  background-size: cover;
+  width: 600px;
+  height: 320px;
+}
+
+#divtext1{
+  text-align: left;
+  width: 400px;
+  height: 300px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top:20px;
+  background-color: rgb(237, 235, 230);
+}
+
+#divtxt2{
+  text-align: left;
+  width: 400px;
+  height: 300px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top:20px;
+  background-color: rgb(237, 235, 230);
+}
+
+#divtxt3{
+  text-align: left;
+  width: 400px;
+  height: 300px;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top:20px;
+  background-color: rgb(237, 235, 230);
+}
+
+#footer{
+  display:inline-flex;
+  color: rgb(252, 106, 43);
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  max-width: 100%;
+  padding: 50px;
+}
+
+#left{
+  padding: 50px;
+}
+
+.sm{
+  color: rgb(252, 106, 43);
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  border: 1px solid rgb(252, 106, 43);
+  padding: 10px 40px;
+  font-size: 12px;
+}
+
+.h1footer{
+  font-size: 14px;
+  margin-top: 50px;
+  text-align: left;
+}
+
+#bold{
+  color: rgb(252, 106, 43);
+  font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+
+#subscribe{
+  color: rgb(252, 106, 43);
+  font-family: 'Raleway', sans-serif;
+  font-size: 13px;
+  letter-spacing: 2px;
+}
+
+#footernote{
+  color: gray;
+  font-family: 'Raleway', sans-serif;
+  font-size: 12px;
+  text-align: left;
+}
+
+#right{
+  padding: 50px;
+  text-align: left;
+}
+
+#email{
+  border: solid rgb(252, 106, 43);
+  width: 100%;
+  height: 15%;
+}
